@@ -4,6 +4,8 @@
 /**
  * numL ength - returns the length of string
  *
+ * Discription: Fibonacci Documentation
+ *
  * @num: operand number
  *
  * Return: number of digits
